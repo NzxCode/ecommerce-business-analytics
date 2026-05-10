@@ -242,7 +242,7 @@ This may indicate:
 
 The visualization below was used during the data quality auditing process to identify missing values across critical operational columns.
 
-![Missing Value Analysis](images/missing_value_analysis.png)
+![Missing Value Analysis](images/missing_value_analysis.png.png)
 
 ---
 
@@ -250,7 +250,7 @@ The visualization below was used during the data quality auditing process to ide
 
 Outlier analysis was performed using the IQR method to identify abnormal transaction values and improve analytical consistency.
 
-![Payment Outlier Analysis](images/payment_outlier_analysis.png)
+![Payment Outlier Analysis](images/payment_outlier_analysis.png.png)
 
 ---
 
@@ -258,7 +258,7 @@ Outlier analysis was performed using the IQR method to identify abnormal transac
 
 The analysis identified strong revenue growth trends and seasonal purchasing behavior throughout the observed periods.
 
-![Revenue Trend](images/revenue_trend.png)
+![Revenue Trend](images/revenue_trend.png.png)
 
 ---
 
@@ -266,7 +266,7 @@ The analysis identified strong revenue growth trends and seasonal purchasing beh
 
 The chart below highlights the highest-performing product categories based on total revenue contribution.
 
-![Top Product Categories](images/top_product_categories.png)
+![Top Product Categories](images/top_product_categories.png.png)
 
 ---
 
@@ -276,7 +276,7 @@ The analysis identified a strong inverse relationship between delivery duration 
 
 Longer delivery times were consistently associated with lower customer satisfaction.
 
-![Review vs Delivery](images/review_vs_delivery.png)
+![Review vs Delivery](images/review_vs_delivery.png.png)
 
 ---
 
@@ -284,7 +284,7 @@ Longer delivery times were consistently associated with lower customer satisfact
 
 Revenue generation was highly concentrated within a small number of geographic regions, particularly São Paulo (SP).
 
-![Revenue by State](images/revenue_by_state.png)
+![Revenue by State](images/revenue_by_state.png.png)
 
 ---
 
